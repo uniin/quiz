@@ -1,0 +1,548 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quizes>
+	<quiz id="0" name="Общий тест">		
+		<item id="0">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="1">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="2">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="3">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="4">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="5">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="6">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="7">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="8">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="9">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="10">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="11">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="12">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="13">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="14">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="15">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="16">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="17">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="18">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="19">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+	</quiz>
+
+	<quiz id="1" name="Еще один общий тест">
+		<item id="0">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="1">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="2">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="3">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="4">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="5">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="6">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="7">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="8">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="9">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="10">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="11">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="12">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="13">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="14">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="15">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="16">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="17">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="18">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="19">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+	</quiz>
+
+	<quiz id="2" name="Тест на даты">	
+		<item id="0">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="1">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="2">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="3">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="4">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="5">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="6">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="7">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="8">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="9">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="10">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="11">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="12">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="13">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="14">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="15">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="16">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+		<item id="17">
+			<question>Какие полюса существуют?</question>
+			<possible option="0">Северный</possible>
+			<possible option="1">Южный</possible>
+			<possible option="2">Западный</possible>
+			<possible option="3">Восточный</possible>
+			<answer>0</answer>
+			<answer>1</answer>
+		</item>
+		
+		<item id="18">
+			<question>Столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Минск</possible>
+			<possible option="2">Могилев</possible>
+			<answer>1</answer>
+		</item>
+		
+		<item id="19">
+			<question>Культурная столица Беларуси?</question>
+			<possible option="0">Гродно</possible>
+			<possible option="1">Могилев</possible>
+			<possible option="2">Минск</possible>
+			<possible option="3">Брест</possible>
+			<answer>3</answer>
+		</item>
+
+	</quiz>
+</quizes>
